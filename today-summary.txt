@@ -1,0 +1,7 @@
+1. Output
+2. Variable
+3. Datatype
+4. Operator
+5. Loop
+6. Condition
+7. Function
